@@ -1,7 +1,8 @@
+OPEN SOURCE PROJECT 
 
 ROBIN :-
                 
-DESCRIPTION:- Robin, an rakuten symphony company, is a Kubernetes-based platform for  automating the software deployment
+DESCRIPTION:- (Robin, an rakuten symphony company) is a Kubernetes-based platform for  automating the software deployment
 It provides efficiency and proficiency of the Big data , Data container ,AI/ML.It is in high demand in information technology industries
 and plays an vital role in the storage of data , manipulating the data . It is based on kubernetes , it provides proficiency and portability in 
 the data storage and life cycle development of the deployed projects.
